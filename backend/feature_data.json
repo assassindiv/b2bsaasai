@@ -1,0 +1,24 @@
+{
+  "/import": {
+    "feature": "Upload CSV to import contacts into your CRM.",
+    "faqs": [
+      {
+        "q": "What file formats are supported?",
+        "a": "Only .csv files with name, email, and phone."
+      },
+      {
+        "q": "Is there a sample template?",
+        "a": "Yes, download a sample CSV from the Help page."
+      }
+    ]
+  },
+  "/dashboard": {
+    "feature": "View and manage contact activity.",
+    "faqs": [
+      {
+        "q": "How do I edit a contact?",
+        "a": "Click the contact name and choose 'Edit'."
+      }
+    ]
+  }
+}
