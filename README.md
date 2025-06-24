@@ -17,11 +17,12 @@ It understands which page the user is on, reads feature descriptions and FAQs, a
 
 # Project Structure:
 b2bsaasai/
-├── backend/          # Flask server with /api/ask route
-├── frontend/         # React widget (chat interface)
-├── embed-script/     # (optional) embeddable <script> loader
-├── deploy/           # render.yaml / vercel.json files
-└── README.md
+
+    ├── backend/          # Flask server with /api/ask route
+    ├── frontend/         # React widget (chat interface)
+    ├── embed-script/     # (optional) embeddable <script> loader
+    ├── deploy/           # render.yaml / vercel.json files
+    └── README.md
 
 # Tech Stack:
 Frontend  : React
